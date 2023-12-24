@@ -1,0 +1,24 @@
+Execute below commands:
+> conda create -p venv python==3.10 
+> conda activate venv/
+
+> Create requirements.txt, add 3 libraries "streamlit", "google-generativeai", "python-dotenv"
+Execute below command
+> pip3 install -r requirements.txt
+
+
+Create file app.py and write code
+
+To start, execute the below command
+> streamlit run app.py
+
+
+
+
+
+
+
+
+
+
+> conda deactivate
